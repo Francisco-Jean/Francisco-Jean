@@ -1,7 +1,7 @@
 # About me
 
 - 👋 Hi, I’m @Francisco-Jean
-- 👀 I’m interested in Web development
+- 👀 I’m interested in Backend development
 - 🎓 I'm a Computer Science student at Federal University of Ceará
 
 # My learning
