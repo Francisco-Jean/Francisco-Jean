@@ -11,11 +11,12 @@
     <img src="https://skillicons.dev/icons?i=python,c,php,cpp,arduino,html,css,git,linux,docker,vscode,replit" />
   </a>
 </p>
+
 # My GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Francisco-Jean&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true">   
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-Jean&theme=github_dark&layout=compact&langs_count=10">
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Francisco-Jean&theme=github_dark&include_all_commits=true&count_private=true">   
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-Jean&theme=github_dark&layout=compact&langs_count=10">
 <p/>
 
 <p align="center">
