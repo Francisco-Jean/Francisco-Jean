@@ -6,13 +6,13 @@
 
 # My learning
 
-  [![My Sills](https://skillicons.dev/icons?i=java,js,html,css,php,python,linux)](https://skillicons.dev)
+   [![My Sills](https://skillicons.dev/icons?i=python,c,java,cpp,php,js,html,css,php,linux,docker,linkedin,git,vscode)](https://skillicons.dev)
 
 # My GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Francisco-Jean&theme=dracula&show_icons=true&include_all_commits=true&count_private=true">   
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco&theme=dracula&layout=compact&langs_count=5">
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Francisco-Jean&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true">   
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-Jean&theme=github_dark&layout=compact&langs_count=15">
 <p/>
 
 <!---
