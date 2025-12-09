@@ -14,16 +14,11 @@
 
 # My GitHub Analytics
 
-<p align="center">
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Francisco-Jean&theme=github_dark&include_all_commits=true&count_private=true">   
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-Jean&theme=github_dark&layout=compact&langs_count=10">
-<p/>
-
-<p align="center">
-  <a href="https://github.com/Francisco-Jean">
-    <img src="https://github.com/Francisco-Jean/Francisco-Jean/blob/output/github-contribution-grid-snake.svg" />
-  </a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Francisco-Jean/Francisco-Jean/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Francisco-Jean/Francisco-Jean/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Francisco-Jean/Francisco-Jean/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!---
 Francisco-Jean/Francisco-Jean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
